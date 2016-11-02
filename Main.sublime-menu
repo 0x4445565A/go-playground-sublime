@@ -1,0 +1,12 @@
+[  
+{  
+    "id": "file",  
+    "children":  
+    [  
+        { 
+          "command": "file_to_go_playground",
+          "caption": "Post To Go Playground"
+        }  
+    ]  
+}  
+] 
